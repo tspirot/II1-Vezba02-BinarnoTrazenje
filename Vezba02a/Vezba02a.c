@@ -5,7 +5,7 @@
 
 int main()
 {
-	// niz sortiranih celih brojeva
+	// niz sortiranih celih brojeva izmena
 	int niz[20] = { 1, 2, 3, 4, 5, 6, 8, 8, 9 };
 	// broj elemenata niza
 	int n = 9;
